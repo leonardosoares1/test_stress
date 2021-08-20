@@ -1,0 +1,19 @@
+# Application
+.env
+
+# Yarn
+node_modules
+yarn-error.log
+
+# Jest
+coverage
+
+# Dist
+dist/
+
+#MacOS
+.DS_Store
+
+#Temp
+tmp/*
+!tmp/.gitkeep
